@@ -1,4 +1,6 @@
 (fp_lib_table
+  (version 7)
   (lib (name "Arduino")(type "KiCad")(uri "D:/kicad/arduino-kicad-library/Arduino.pretty")(options "")(descr ""))
   (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/Library.pretty")(options "")(descr ""))
+  (lib (name "misc_silkscreen")(type "KiCad")(uri "D:/_My documents/Kicad projects/misc_silkscreen.pretty")(options "")(descr ""))
 )
